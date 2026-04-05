@@ -20,7 +20,7 @@ The project features an Excel-based dashboard with:
 
 > **Note:** Below is a preview of the interactive dashboard included in the Excel file.
 > 
-> ![Dashboard Screenshot](AQUÍ_VA_EL_NOMBRE_DE_TU_IMAGEN.jpg)
+> ![Dashboard Screenshot](ai_job_market_insights_dashboard.png)
 
 ---
 
