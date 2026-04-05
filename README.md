@@ -31,5 +31,5 @@ The project features an Excel-based dashboard with:
 ---
 
 ## 👤 Author
-**Tu Nombre**
+**Javier Sosa**
 * [![linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-sosa-marrero-7a359b3aa/?locale=en-US)
